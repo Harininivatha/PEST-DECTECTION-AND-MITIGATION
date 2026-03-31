@@ -40,7 +40,7 @@ Bash
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation;?:
+⚙️ Installation:
 Bash
 git clone https://github.com/your-username/pest-detection.git
 cd pest-detection
